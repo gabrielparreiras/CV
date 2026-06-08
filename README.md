@@ -83,6 +83,7 @@ This portfolio is designed to demonstrate how I structure technology leadership 
 - [`articles/sre-paradoxo-confiabilidade.md`](articles/sre-paradoxo-confiabilidade.md)
 - [`articles/cloud-sem-finops.md`](articles/cloud-sem-finops.md)
 - [`articles/ia-como-competencia-estrategica.md`](articles/ia-como-competencia-estrategica.md)
+- [`articles/shai-hulud-dependencias-ia-ciberseguranca.md`](articles/shai-hulud-dependencias-ia-ciberseguranca.md)
 
 ### Diagrams
 
