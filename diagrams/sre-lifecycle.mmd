@@ -1,0 +1,8 @@
+flowchart LR
+    A[Ideation\nReliability expectations] --> B[Architecture\nResilience and failure modes]
+    B --> C[Development\nQuality gates and telemetry]
+    C --> D[Delivery\nProgressive deployment]
+    D --> E[Operations\nSLI/SLO, MTTR and incidents]
+    E --> F[Improvement\nPost-incident learning]
+    F --> G[Deprecation\nSafe retirement]
+    F --> B
